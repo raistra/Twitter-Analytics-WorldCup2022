@@ -2,7 +2,7 @@
 A project analyzing social media data from Twitter related to the FIFA World Cup Final 2022 Qatar.
 
 ## Project Overview
-This is a final project for our Data Mining & Business Intelligence class. It was a teamwork effort. The scope of the methods used in this project includes the methods that have been discussed in lectures throughout the semester, such as: EDA-Preprocessing & Visualization, Clustering/Classification, Textmining and NLP-Topic Modelling, Sentiment Analysis, Social Network Analysis.
+This project analyzes social media data from Twitter related to the FIFA World Cup Final 2022. Using data collection and cleaning techniques, the project provides insights into trends and sentiments surrounding the event, through data analysis and visualization methods. The scope of the methods used in this project includes the methods that have been discussed in lectures throughout the semester, such as: EDA-Preprocessing & Visualization, Clustering/Classification, Textmining and NLP-Topic Modelling, Sentiment Analysis, Social Network Analysis.. The results of the analysis can provide valuable information on public opinion and social media engagement with the World Cup Final.
 
 ## Data Collection
 The twitter data was collected using 'twint' module from python. We used "pildun" as the keyword and obtained 20,000 tweets
